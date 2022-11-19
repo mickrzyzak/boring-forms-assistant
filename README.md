@@ -1,46 +1,41 @@
-# Getting Started with Create React App and Redux
+# Boring Forms Assistant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## What is it?
 
-## Available Scripts
+Boring Forms Assistant is a **form builder** that helps you create Bootstrap 5 form structures **faster and easier**. You can import the created data and **modify it at any time**. Code output and **form preview** is avaliable in real time.
 
-In the project directory, you can run:
+![Screenshot](screenshot.png)
 
-### `npm start`
+### Check it out
+[Check out the online demo.](https://mickrzyzak.github.io/boring-forms-assistant/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Import the form
+[See the registration form ready for import.](examples/registration-form.json)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
+- Bootstrap 5 output code
+- Live preview
+- Grid transformations
+- Data saving
+- Import/Export
 
-### `npm test`
+## Field types
+- [x] Text *(with variants)*
+- [x] Textarea
+- [x] Select
+- [x] Checkbox
+- [x] Radio
+- [x] Button
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built with
+- [React](https://github.com/facebook/react)
+- [React Redux](https://github.com/reduxjs/react-redux)
+- [MUI](https://github.com/mui/material-ui)
 
-### `npm run build`
+## Requirements
+- Node.js and npm
+- Browser *(Firefox or Chrome recommended)*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Setup
+1. `npm install` Install Node dependencies
+2. `npm start` Run the application
