@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boring-forms-assistant/static/css/main.15d95d5f.css",
+    "main.js": "/boring-forms-assistant/static/js/main.e038a05d.js",
+    "static/js/787.e8ea27f8.chunk.js": "/boring-forms-assistant/static/js/787.e8ea27f8.chunk.js",
+    "index.html": "/boring-forms-assistant/index.html",
+    "main.15d95d5f.css.map": "/boring-forms-assistant/static/css/main.15d95d5f.css.map",
+    "main.e038a05d.js.map": "/boring-forms-assistant/static/js/main.e038a05d.js.map",
+    "787.e8ea27f8.chunk.js.map": "/boring-forms-assistant/static/js/787.e8ea27f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d95d5f.css",
+    "static/js/main.e038a05d.js"
+  ]
+}
