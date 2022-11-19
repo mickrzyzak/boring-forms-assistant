@@ -2,6 +2,7 @@
   "name": "boring-forms-assistant",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mickrzyzak.github.io/boring-forms-assistant/",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
@@ -13,7 +14,7 @@
     "@testing-library/user-event": "^14.4.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-highlight": "^0.14.0",
+    "react-highlight": "^0.15.0",
     "react-redux": "^8.0.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
